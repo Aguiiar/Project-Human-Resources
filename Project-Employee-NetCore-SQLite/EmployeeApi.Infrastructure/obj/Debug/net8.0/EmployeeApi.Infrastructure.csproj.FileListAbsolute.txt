@@ -1,0 +1,17 @@
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-NetCore-SQLite\EmployeeApi.Infrastructure\obj\Debug\net8.0\EmployeeApi.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-NetCore-SQLite\EmployeeApi.Infrastructure\obj\Debug\net8.0\EmployeeApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-NetCore-SQLite\EmployeeApi.Infrastructure\obj\Debug\net8.0\EmployeeApi.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-NetCore-SQLite\EmployeeApi.Infrastructure\obj\Debug\net8.0\EmployeeApi.Infrastructure.AssemblyInfo.cs
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-NetCore-SQLite\EmployeeApi.Infrastructure\obj\Debug\net8.0\EmployeeApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-NetCore-SQLite\EmployeeApi.Infrastructure\bin\Debug\net8.0\EmployeeApi.Infrastructure.deps.json
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-NetCore-SQLite\EmployeeApi.Infrastructure\bin\Debug\net8.0\EmployeeApi.Infrastructure.dll
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-NetCore-SQLite\EmployeeApi.Infrastructure\bin\Debug\net8.0\EmployeeApi.Infrastructure.pdb
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-NetCore-SQLite\EmployeeApi.Infrastructure\bin\Debug\net8.0\EmployeeApi.Application.dll
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-NetCore-SQLite\EmployeeApi.Infrastructure\bin\Debug\net8.0\EmployeeApi.Domain.dll
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-NetCore-SQLite\EmployeeApi.Infrastructure\bin\Debug\net8.0\EmployeeApi.Application.pdb
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-NetCore-SQLite\EmployeeApi.Infrastructure\bin\Debug\net8.0\EmployeeApi.Domain.pdb
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-NetCore-SQLite\EmployeeApi.Infrastructure\obj\Debug\net8.0\Employee.EF1C6C03.Up2Date
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-NetCore-SQLite\EmployeeApi.Infrastructure\obj\Debug\net8.0\EmployeeApi.Infrastructure.dll
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-NetCore-SQLite\EmployeeApi.Infrastructure\obj\Debug\net8.0\refint\EmployeeApi.Infrastructure.dll
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-NetCore-SQLite\EmployeeApi.Infrastructure\obj\Debug\net8.0\EmployeeApi.Infrastructure.pdb
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-NetCore-SQLite\EmployeeApi.Infrastructure\obj\Debug\net8.0\ref\EmployeeApi.Infrastructure.dll

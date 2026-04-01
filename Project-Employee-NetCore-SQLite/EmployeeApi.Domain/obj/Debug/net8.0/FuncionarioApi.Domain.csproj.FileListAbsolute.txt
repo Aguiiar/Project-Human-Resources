@@ -1,0 +1,11 @@
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-Core-Swagger-SQLite\FuncionarioApi.Domain\bin\Debug\net8.0\FuncionarioApi.Domain.deps.json
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-Core-Swagger-SQLite\FuncionarioApi.Domain\bin\Debug\net8.0\FuncionarioApi.Domain.dll
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-Core-Swagger-SQLite\FuncionarioApi.Domain\bin\Debug\net8.0\FuncionarioApi.Domain.pdb
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-Core-Swagger-SQLite\FuncionarioApi.Domain\obj\Debug\net8.0\FuncionarioApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-Core-Swagger-SQLite\FuncionarioApi.Domain\obj\Debug\net8.0\FuncionarioApi.Domain.AssemblyInfoInputs.cache
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-Core-Swagger-SQLite\FuncionarioApi.Domain\obj\Debug\net8.0\FuncionarioApi.Domain.AssemblyInfo.cs
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-Core-Swagger-SQLite\FuncionarioApi.Domain\obj\Debug\net8.0\FuncionarioApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-Core-Swagger-SQLite\FuncionarioApi.Domain\obj\Debug\net8.0\FuncionarioApi.Domain.dll
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-Core-Swagger-SQLite\FuncionarioApi.Domain\obj\Debug\net8.0\refint\FuncionarioApi.Domain.dll
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-Core-Swagger-SQLite\FuncionarioApi.Domain\obj\Debug\net8.0\FuncionarioApi.Domain.pdb
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-Core-Swagger-SQLite\FuncionarioApi.Domain\obj\Debug\net8.0\ref\FuncionarioApi.Domain.dll

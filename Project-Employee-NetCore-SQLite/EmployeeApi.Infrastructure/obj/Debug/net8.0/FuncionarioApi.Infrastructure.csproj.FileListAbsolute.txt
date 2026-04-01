@@ -1,0 +1,17 @@
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-Core-Swagger-SQLite\FuncionarioApi.Infrastructure\obj\Debug\net8.0\FuncionarioApi.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-Core-Swagger-SQLite\FuncionarioApi.Infrastructure\obj\Debug\net8.0\FuncionarioApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-Core-Swagger-SQLite\FuncionarioApi.Infrastructure\obj\Debug\net8.0\FuncionarioApi.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-Core-Swagger-SQLite\FuncionarioApi.Infrastructure\obj\Debug\net8.0\FuncionarioApi.Infrastructure.AssemblyInfo.cs
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-Core-Swagger-SQLite\FuncionarioApi.Infrastructure\obj\Debug\net8.0\FuncionarioApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-Core-Swagger-SQLite\FuncionarioApi.Infrastructure\bin\Debug\net8.0\FuncionarioApi.Infrastructure.deps.json
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-Core-Swagger-SQLite\FuncionarioApi.Infrastructure\bin\Debug\net8.0\FuncionarioApi.Infrastructure.dll
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-Core-Swagger-SQLite\FuncionarioApi.Infrastructure\bin\Debug\net8.0\FuncionarioApi.Infrastructure.pdb
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-Core-Swagger-SQLite\FuncionarioApi.Infrastructure\bin\Debug\net8.0\FuncionarioApi.Application.dll
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-Core-Swagger-SQLite\FuncionarioApi.Infrastructure\bin\Debug\net8.0\FuncionarioApi.Domain.dll
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-Core-Swagger-SQLite\FuncionarioApi.Infrastructure\bin\Debug\net8.0\FuncionarioApi.Application.pdb
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-Core-Swagger-SQLite\FuncionarioApi.Infrastructure\bin\Debug\net8.0\FuncionarioApi.Domain.pdb
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-Core-Swagger-SQLite\FuncionarioApi.Infrastructure\obj\Debug\net8.0\Funciona.497833F2.Up2Date
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-Core-Swagger-SQLite\FuncionarioApi.Infrastructure\obj\Debug\net8.0\FuncionarioApi.Infrastructure.dll
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-Core-Swagger-SQLite\FuncionarioApi.Infrastructure\obj\Debug\net8.0\refint\FuncionarioApi.Infrastructure.dll
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-Core-Swagger-SQLite\FuncionarioApi.Infrastructure\obj\Debug\net8.0\FuncionarioApi.Infrastructure.pdb
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-Core-Swagger-SQLite\FuncionarioApi.Infrastructure\obj\Debug\net8.0\ref\FuncionarioApi.Infrastructure.dll

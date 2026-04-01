@@ -1,0 +1,17 @@
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-Core-Swagger-SQLite\FuncionarioApi.Application\obj\Debug\net8.0\FuncionarioApi.Application.csproj.AssemblyReference.cache
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-Core-Swagger-SQLite\FuncionarioApi.Application\obj\Debug\net8.0\FuncionarioApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-Core-Swagger-SQLite\FuncionarioApi.Application\obj\Debug\net8.0\FuncionarioApi.Application.AssemblyInfoInputs.cache
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-Core-Swagger-SQLite\FuncionarioApi.Application\obj\Debug\net8.0\FuncionarioApi.Application.AssemblyInfo.cs
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-Core-Swagger-SQLite\FuncionarioApi.Application\obj\Debug\net8.0\FuncionarioApi.Application.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-Core-Swagger-SQLite\FuncionarioApi.Application\bin\Debug\net8.0\FuncionarioApi.Application.deps.json
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-Core-Swagger-SQLite\FuncionarioApi.Application\bin\Debug\net8.0\FuncionarioApi.Application.runtimeconfig.json
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-Core-Swagger-SQLite\FuncionarioApi.Application\bin\Debug\net8.0\FuncionarioApi.Application.dll
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-Core-Swagger-SQLite\FuncionarioApi.Application\bin\Debug\net8.0\FuncionarioApi.Application.pdb
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-Core-Swagger-SQLite\FuncionarioApi.Application\bin\Debug\net8.0\FuncionarioApi.Domain.dll
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-Core-Swagger-SQLite\FuncionarioApi.Application\bin\Debug\net8.0\FuncionarioApi.Domain.pdb
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-Core-Swagger-SQLite\FuncionarioApi.Application\obj\Debug\net8.0\Funciona.56661BB8.Up2Date
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-Core-Swagger-SQLite\FuncionarioApi.Application\obj\Debug\net8.0\FuncionarioApi.Application.dll
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-Core-Swagger-SQLite\FuncionarioApi.Application\obj\Debug\net8.0\refint\FuncionarioApi.Application.dll
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-Core-Swagger-SQLite\FuncionarioApi.Application\obj\Debug\net8.0\FuncionarioApi.Application.pdb
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-Core-Swagger-SQLite\FuncionarioApi.Application\obj\Debug\net8.0\FuncionarioApi.Application.genruntimeconfig.cache
+C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-Core-Swagger-SQLite\FuncionarioApi.Application\obj\Debug\net8.0\ref\FuncionarioApi.Application.dll
