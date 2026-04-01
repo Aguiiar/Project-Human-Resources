@@ -44,3 +44,19 @@ C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Department-NetCo
 C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Department-NetCore-SQLite\DepartmentApi.Application.testeteste\obj\Debug\net8.0\refint\DepartmentApi.Application.dll
 C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Department-NetCore-SQLite\DepartmentApi.Application.testeteste\obj\Debug\net8.0\DepartmentApi.Application.pdb
 C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Department-NetCore-SQLite\DepartmentApi.Application.testeteste\obj\Debug\net8.0\ref\DepartmentApi.Application.dll
+C:\Users\Guilherme Aguiar\Desktop\Deixar responsivel\Project-Human-Resources\Project-Department-NetCore-SQLite\DepartmentApi.Application.testeteste\bin\Debug\net8.0\DepartmentApi.Application.deps.json
+C:\Users\Guilherme Aguiar\Desktop\Deixar responsivel\Project-Human-Resources\Project-Department-NetCore-SQLite\DepartmentApi.Application.testeteste\bin\Debug\net8.0\DepartmentApi.Application.dll
+C:\Users\Guilherme Aguiar\Desktop\Deixar responsivel\Project-Human-Resources\Project-Department-NetCore-SQLite\DepartmentApi.Application.testeteste\bin\Debug\net8.0\DepartmentApi.Application.pdb
+C:\Users\Guilherme Aguiar\Desktop\Deixar responsivel\Project-Human-Resources\Project-Department-NetCore-SQLite\DepartmentApi.Application.testeteste\bin\Debug\net8.0\DepartmentApi.Domain.dll
+C:\Users\Guilherme Aguiar\Desktop\Deixar responsivel\Project-Human-Resources\Project-Department-NetCore-SQLite\DepartmentApi.Application.testeteste\bin\Debug\net8.0\DepartmentApi.Domain.pdb
+C:\Users\Guilherme Aguiar\Desktop\Deixar responsivel\Project-Human-Resources\Project-Department-NetCore-SQLite\DepartmentApi.Application.testeteste\obj\Debug\net8.0\DepartmentApi.Application.csproj.AssemblyReference.cache
+C:\Users\Guilherme Aguiar\Desktop\Deixar responsivel\Project-Human-Resources\Project-Department-NetCore-SQLite\DepartmentApi.Application.testeteste\obj\Debug\net8.0\DepartmentApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme Aguiar\Desktop\Deixar responsivel\Project-Human-Resources\Project-Department-NetCore-SQLite\DepartmentApi.Application.testeteste\obj\Debug\net8.0\DepartmentApi.Application.AssemblyInfoInputs.cache
+C:\Users\Guilherme Aguiar\Desktop\Deixar responsivel\Project-Human-Resources\Project-Department-NetCore-SQLite\DepartmentApi.Application.testeteste\obj\Debug\net8.0\DepartmentApi.Application.AssemblyInfo.cs
+C:\Users\Guilherme Aguiar\Desktop\Deixar responsivel\Project-Human-Resources\Project-Department-NetCore-SQLite\DepartmentApi.Application.testeteste\obj\Debug\net8.0\DepartmentApi.Application.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Aguiar\Desktop\Deixar responsivel\Project-Human-Resources\Project-Department-NetCore-SQLite\DepartmentApi.Application.testeteste\obj\Debug\net8.0\DepartmentApi.Application.sourcelink.json
+C:\Users\Guilherme Aguiar\Desktop\Deixar responsivel\Project-Human-Resources\Project-Department-NetCore-SQLite\DepartmentApi.Application.testeteste\obj\Debug\net8.0\Departme.B44D4FCB.Up2Date
+C:\Users\Guilherme Aguiar\Desktop\Deixar responsivel\Project-Human-Resources\Project-Department-NetCore-SQLite\DepartmentApi.Application.testeteste\obj\Debug\net8.0\DepartmentApi.Application.dll
+C:\Users\Guilherme Aguiar\Desktop\Deixar responsivel\Project-Human-Resources\Project-Department-NetCore-SQLite\DepartmentApi.Application.testeteste\obj\Debug\net8.0\refint\DepartmentApi.Application.dll
+C:\Users\Guilherme Aguiar\Desktop\Deixar responsivel\Project-Human-Resources\Project-Department-NetCore-SQLite\DepartmentApi.Application.testeteste\obj\Debug\net8.0\DepartmentApi.Application.pdb
+C:\Users\Guilherme Aguiar\Desktop\Deixar responsivel\Project-Human-Resources\Project-Department-NetCore-SQLite\DepartmentApi.Application.testeteste\obj\Debug\net8.0\ref\DepartmentApi.Application.dll

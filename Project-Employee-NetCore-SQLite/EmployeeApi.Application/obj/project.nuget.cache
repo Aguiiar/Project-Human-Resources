@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "ZaDKDCcA4HE=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\Guilherme Aguiar\\Desktop\\ProjetoCoreEmployeeC#\\Project-Employee-NetCore-SQLite\\EmployeeApi.Application\\EmployeeApi.Application.csproj",
+  "dgSpecHash": "IXpIKiYAuqs=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Guilherme Aguiar\\Desktop\\Deixar responsivel\\Project-Human-Resources\\Project-Employee-NetCore-SQLite\\EmployeeApi.Application\\EmployeeApi.Application.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Não é possível encontrar o projeto 'C:\\Users\\Guilherme Aguiar\\Desktop\\Deixar responsivel\\Project-Human-Resources\\Project-Employee-NetCore-SQLite\\FuncionarioApi.Domain\\EmployeeApi.Domain.csproj'. Verifique se a referência do projeto é válida e se o arquivo de projeto existe.",
+      "libraryId": "C:\\Users\\Guilherme Aguiar\\Desktop\\Deixar responsivel\\Project-Human-Resources\\Project-Employee-NetCore-SQLite\\FuncionarioApi.Domain\\EmployeeApi.Domain.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }

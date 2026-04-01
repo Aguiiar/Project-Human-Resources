@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Guilherme Aguiar\\Desktop\\ProjetoCoreEmployeeC#\\Project-Employee-NetCore-SQLite\\EmployeeApi.Domain\\EmployeeApi.Domain.csproj": {}
+    "C:\\Users\\Guilherme Aguiar\\Desktop\\Deixar responsivel\\Project-Human-Resources\\Project-Employee-NetCore-SQLite\\EmployeeApi.Domain\\EmployeeApi.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Guilherme Aguiar\\Desktop\\ProjetoCoreEmployeeC#\\Project-Employee-NetCore-SQLite\\EmployeeApi.Domain\\EmployeeApi.Domain.csproj": {
+    "C:\\Users\\Guilherme Aguiar\\Desktop\\Deixar responsivel\\Project-Human-Resources\\Project-Employee-NetCore-SQLite\\EmployeeApi.Domain\\EmployeeApi.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Guilherme Aguiar\\Desktop\\ProjetoCoreEmployeeC#\\Project-Employee-NetCore-SQLite\\EmployeeApi.Domain\\EmployeeApi.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Guilherme Aguiar\\Desktop\\Deixar responsivel\\Project-Human-Resources\\Project-Employee-NetCore-SQLite\\EmployeeApi.Domain\\EmployeeApi.Domain.csproj",
         "projectName": "EmployeeApi.Domain",
-        "projectPath": "C:\\Users\\Guilherme Aguiar\\Desktop\\ProjetoCoreEmployeeC#\\Project-Employee-NetCore-SQLite\\EmployeeApi.Domain\\EmployeeApi.Domain.csproj",
+        "projectPath": "C:\\Users\\Guilherme Aguiar\\Desktop\\Deixar responsivel\\Project-Human-Resources\\Project-Employee-NetCore-SQLite\\EmployeeApi.Domain\\EmployeeApi.Domain.csproj",
         "packagesPath": "C:\\Users\\Guilherme Aguiar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Guilherme Aguiar\\Desktop\\ProjetoCoreEmployeeC#\\Project-Employee-NetCore-SQLite\\EmployeeApi.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Guilherme Aguiar\\Desktop\\Deixar responsivel\\Project-Human-Resources\\Project-Employee-NetCore-SQLite\\EmployeeApi.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

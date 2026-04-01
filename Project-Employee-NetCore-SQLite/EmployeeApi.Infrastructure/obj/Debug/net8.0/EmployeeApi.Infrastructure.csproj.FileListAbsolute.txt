@@ -15,3 +15,6 @@ C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-NetCore
 C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-NetCore-SQLite\EmployeeApi.Infrastructure\obj\Debug\net8.0\refint\EmployeeApi.Infrastructure.dll
 C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-NetCore-SQLite\EmployeeApi.Infrastructure\obj\Debug\net8.0\EmployeeApi.Infrastructure.pdb
 C:\Users\Guilherme Aguiar\Desktop\ProjetoCoreEmployeeC#\Project-Employee-NetCore-SQLite\EmployeeApi.Infrastructure\obj\Debug\net8.0\ref\EmployeeApi.Infrastructure.dll
+C:\Users\Guilherme Aguiar\Desktop\Deixar responsivel\Project-Human-Resources\Project-Employee-NetCore-SQLite\EmployeeApi.Infrastructure\obj\Debug\net8.0\EmployeeApi.Infrastructure.dll
+C:\Users\Guilherme Aguiar\Desktop\Deixar responsivel\Project-Human-Resources\Project-Employee-NetCore-SQLite\EmployeeApi.Infrastructure\obj\Debug\net8.0\refint\EmployeeApi.Infrastructure.dll
+C:\Users\Guilherme Aguiar\Desktop\Deixar responsivel\Project-Human-Resources\Project-Employee-NetCore-SQLite\EmployeeApi.Infrastructure\obj\Debug\net8.0\EmployeeApi.Infrastructure.pdb

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jj5BJ0SL5Tk=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\Guilherme Aguiar\\Desktop\\ProjetoCoreEmployeeC#\\Project-Employee-NetCore-SQLite\\EmployeeApi.Infrastructure\\EmployeeApi.Infrastructure.csproj",
+  "dgSpecHash": "yS1bqRYDz4I=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Guilherme Aguiar\\Desktop\\Deixar responsivel\\Project-Human-Resources\\Project-Employee-NetCore-SQLite\\EmployeeApi.Infrastructure\\EmployeeApi.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Guilherme Aguiar\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.0\\microsoft.entityframeworkcore.8.0.0.nupkg.sha512",
     "C:\\Users\\Guilherme Aguiar\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.0\\microsoft.entityframeworkcore.abstractions.8.0.0.nupkg.sha512",
@@ -16,5 +16,21 @@
     "C:\\Users\\Guilherme Aguiar\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
     "C:\\Users\\Guilherme Aguiar\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Não é possível encontrar o projeto 'C:\\Users\\Guilherme Aguiar\\Desktop\\Deixar responsivel\\Project-Human-Resources\\Project-Employee-NetCore-SQLite\\FuncionarioApi.Domain\\EmployeeApi.Domain.csproj'. Verifique se a referência do projeto é válida e se o arquivo de projeto existe.",
+      "libraryId": "C:\\Users\\Guilherme Aguiar\\Desktop\\Deixar responsivel\\Project-Human-Resources\\Project-Employee-NetCore-SQLite\\FuncionarioApi.Domain\\EmployeeApi.Domain.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Ocorreu um erro ao obter os dados de vulnerabilidade do pacote: Não é possível carregar o índice de serviço para a origem https://api.nuget.org/v3/index.json."
+    }
+  ]
 }

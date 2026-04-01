@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Guilherme Aguiar\\Desktop\\ProjetoCoreEmployeeC#\\Project-Employee-NetCore-SQLite\\",
+  "WorkspaceRootPath": "C:\\Users\\Guilherme Aguiar\\Desktop\\Deixar responsivel\\Project-Human-Resources\\Project-Employee-NetCore-SQLite\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2E8B355F-9F28-EF0C-D50A-3BC294C69025}|EmployeeApi.Infrastructure\\EmployeeApi.Infrastructure.csproj|c:\\users\\guilherme aguiar\\desktop\\projetocoreemployeec#\\project-employee-netcore-sqlite\\employeeapi.infrastructure\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2E8B355F-9F28-EF0C-D50A-3BC294C69025}|EmployeeApi.Infrastructure\\EmployeeApi.Infrastructure.csproj|c:\\users\\guilherme aguiar\\desktop\\deixar responsivel\\project-human-resources\\project-employee-netcore-sqlite\\employeeapi.infrastructure\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E8B355F-9F28-EF0C-D50A-3BC294C69025}|EmployeeApi.Infrastructure\\EmployeeApi.Infrastructure.csproj|solutionrelative:employeeapi.infrastructure\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4686858A-79BD-241B-34C0-6252D9B60DFE}|EmployeeApi\\EmployeeApi.csproj|c:\\users\\guilherme aguiar\\desktop\\projetocoreemployeec#\\project-employee-netcore-sqlite\\employeeapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4686858A-79BD-241B-34C0-6252D9B60DFE}|EmployeeApi\\EmployeeApi.csproj|c:\\users\\guilherme aguiar\\desktop\\deixar responsivel\\project-human-resources\\project-employee-netcore-sqlite\\employeeapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4686858A-79BD-241B-34C0-6252D9B60DFE}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C9E760C-FD31-5AAA-BA07-243102433AFD}|EmployeeApi.Application\\EmployeeApi.Application.csproj|c:\\users\\guilherme aguiar\\desktop\\projetocoreemployeec#\\project-employee-netcore-sqlite\\employeeapi.application\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C9E760C-FD31-5AAA-BA07-243102433AFD}|EmployeeApi.Application\\EmployeeApi.Application.csproj|c:\\users\\guilherme aguiar\\desktop\\deixar responsivel\\project-human-resources\\project-employee-netcore-sqlite\\employeeapi.application\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C9E760C-FD31-5AAA-BA07-243102433AFD}|EmployeeApi.Application\\EmployeeApi.Application.csproj|solutionrelative:employeeapi.application\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E8B355F-9F28-EF0C-D50A-3BC294C69025}|EmployeeApi.Infrastructure\\EmployeeApi.Infrastructure.csproj|c:\\users\\guilherme aguiar\\desktop\\projetocoreemployeec#\\project-employee-netcore-sqlite\\employeeapi.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2E8B355F-9F28-EF0C-D50A-3BC294C69025}|EmployeeApi.Infrastructure\\EmployeeApi.Infrastructure.csproj|c:\\users\\guilherme aguiar\\desktop\\deixar responsivel\\project-human-resources\\project-employee-netcore-sqlite\\employeeapi.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E8B355F-9F28-EF0C-D50A-3BC294C69025}|EmployeeApi.Infrastructure\\EmployeeApi.Infrastructure.csproj|solutionrelative:employeeapi.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4686858A-79BD-241B-34C0-6252D9B60DFE}|EmployeeApi\\EmployeeApi.csproj|c:\\users\\guilherme aguiar\\desktop\\projetocoreemployeec#\\project-employee-netcore-sqlite\\employeeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4686858A-79BD-241B-34C0-6252D9B60DFE}|EmployeeApi\\EmployeeApi.csproj|c:\\users\\guilherme aguiar\\desktop\\deixar responsivel\\project-human-resources\\project-employee-netcore-sqlite\\employeeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4686858A-79BD-241B-34C0-6252D9B60DFE}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4686858A-79BD-241B-34C0-6252D9B60DFE}|EmployeeApi\\EmployeeApi.csproj|c:\\users\\guilherme aguiar\\desktop\\projetocoreemployeec#\\project-employee-netcore-sqlite\\employeeapi\\employeeapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{4686858A-79BD-241B-34C0-6252D9B60DFE}|EmployeeApi\\EmployeeApi.csproj|c:\\users\\guilherme aguiar\\desktop\\deixar responsivel\\project-human-resources\\project-employee-netcore-sqlite\\employeeapi\\employeeapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{4686858A-79BD-241B-34C0-6252D9B60DFE}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\employeeapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E8B355F-9F28-EF0C-D50A-3BC294C69025}|EmployeeApi.Infrastructure\\EmployeeApi.Infrastructure.csproj|c:\\users\\guilherme aguiar\\desktop\\projetocoreemployeec#\\project-employee-netcore-sqlite\\employeeapi.infrastructure\\http\\departmentclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2E8B355F-9F28-EF0C-D50A-3BC294C69025}|EmployeeApi.Infrastructure\\EmployeeApi.Infrastructure.csproj|c:\\users\\guilherme aguiar\\desktop\\deixar responsivel\\project-human-resources\\project-employee-netcore-sqlite\\employeeapi.infrastructure\\http\\departmentclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E8B355F-9F28-EF0C-D50A-3BC294C69025}|EmployeeApi.Infrastructure\\EmployeeApi.Infrastructure.csproj|solutionrelative:employeeapi.infrastructure\\http\\departmentclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C9E760C-FD31-5AAA-BA07-243102433AFD}|EmployeeApi.Application\\EmployeeApi.Application.csproj|c:\\users\\guilherme aguiar\\desktop\\projetocoreemployeec#\\project-employee-netcore-sqlite\\employeeapi.application\\interfaces\\idepartmentclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C9E760C-FD31-5AAA-BA07-243102433AFD}|EmployeeApi.Application\\EmployeeApi.Application.csproj|c:\\users\\guilherme aguiar\\desktop\\deixar responsivel\\project-human-resources\\project-employee-netcore-sqlite\\employeeapi.application\\interfaces\\idepartmentclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C9E760C-FD31-5AAA-BA07-243102433AFD}|EmployeeApi.Application\\EmployeeApi.Application.csproj|solutionrelative:employeeapi.application\\interfaces\\idepartmentclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -48,9 +48,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Guilherme Aguiar\\Desktop\\ProjetoCoreEmployeeC#\\Project-Employee-NetCore-SQLite\\EmployeeApi.Infrastructure\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme Aguiar\\Desktop\\Deixar responsivel\\Project-Human-Resources\\Project-Employee-NetCore-SQLite\\EmployeeApi.Infrastructure\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "EmployeeApi.Infrastructure\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Guilherme Aguiar\\Desktop\\ProjetoCoreEmployeeC#\\Project-Employee-NetCore-SQLite\\EmployeeApi.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Guilherme Aguiar\\Desktop\\Deixar responsivel\\Project-Human-Resources\\Project-Employee-NetCore-SQLite\\EmployeeApi.Infrastructure\\Data\\AppDbContext.cs",
               "RelativeToolTip": "EmployeeApi.Infrastructure\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -60,9 +60,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "EmployeeApi.csproj",
-              "DocumentMoniker": "C:\\Users\\Guilherme Aguiar\\Desktop\\ProjetoCoreEmployeeC#\\Project-Employee-NetCore-SQLite\\EmployeeApi\\EmployeeApi.csproj",
+              "DocumentMoniker": "C:\\Users\\Guilherme Aguiar\\Desktop\\Deixar responsivel\\Project-Human-Resources\\Project-Employee-NetCore-SQLite\\EmployeeApi\\EmployeeApi.csproj",
               "RelativeDocumentMoniker": "EmployeeApi\\EmployeeApi.csproj",
-              "ToolTip": "C:\\Users\\Guilherme Aguiar\\Desktop\\ProjetoCoreEmployeeC#\\Project-Employee-NetCore-SQLite\\EmployeeApi\\EmployeeApi.csproj",
+              "ToolTip": "C:\\Users\\Guilherme Aguiar\\Desktop\\Deixar responsivel\\Project-Human-Resources\\Project-Employee-NetCore-SQLite\\EmployeeApi\\EmployeeApi.csproj",
               "RelativeToolTip": "EmployeeApi\\EmployeeApi.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -72,9 +72,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Guilherme Aguiar\\Desktop\\ProjetoCoreEmployeeC#\\Project-Employee-NetCore-SQLite\\EmployeeApi\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme Aguiar\\Desktop\\Deixar responsivel\\Project-Human-Resources\\Project-Employee-NetCore-SQLite\\EmployeeApi\\Program.cs",
               "RelativeDocumentMoniker": "EmployeeApi\\Program.cs",
-              "ToolTip": "C:\\Users\\Guilherme Aguiar\\Desktop\\ProjetoCoreEmployeeC#\\Project-Employee-NetCore-SQLite\\EmployeeApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Guilherme Aguiar\\Desktop\\Deixar responsivel\\Project-Human-Resources\\Project-Employee-NetCore-SQLite\\EmployeeApi\\Program.cs",
               "RelativeToolTip": "EmployeeApi\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -84,9 +84,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\Users\\Guilherme Aguiar\\Desktop\\ProjetoCoreEmployeeC#\\Project-Employee-NetCore-SQLite\\EmployeeApi\\Controllers\\EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme Aguiar\\Desktop\\Deixar responsivel\\Project-Human-Resources\\Project-Employee-NetCore-SQLite\\EmployeeApi\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "EmployeeApi\\Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Users\\Guilherme Aguiar\\Desktop\\ProjetoCoreEmployeeC#\\Project-Employee-NetCore-SQLite\\EmployeeApi\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Guilherme Aguiar\\Desktop\\Deixar responsivel\\Project-Human-Resources\\Project-Employee-NetCore-SQLite\\EmployeeApi\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "EmployeeApi\\Controllers\\EmployeeController.cs",
               "ViewState": "AgIAAGAAAAAAAAAAAAAmwAMAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -96,9 +96,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "EmployeeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Guilherme Aguiar\\Desktop\\ProjetoCoreEmployeeC#\\Project-Employee-NetCore-SQLite\\EmployeeApi.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme Aguiar\\Desktop\\Deixar responsivel\\Project-Human-Resources\\Project-Employee-NetCore-SQLite\\EmployeeApi.Infrastructure\\Repositories\\EmployeeRepository.cs",
               "RelativeDocumentMoniker": "EmployeeApi.Infrastructure\\Repositories\\EmployeeRepository.cs",
-              "ToolTip": "C:\\Users\\Guilherme Aguiar\\Desktop\\ProjetoCoreEmployeeC#\\Project-Employee-NetCore-SQLite\\EmployeeApi.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Guilherme Aguiar\\Desktop\\Deixar responsivel\\Project-Human-Resources\\Project-Employee-NetCore-SQLite\\EmployeeApi.Infrastructure\\Repositories\\EmployeeRepository.cs",
               "RelativeToolTip": "EmployeeApi.Infrastructure\\Repositories\\EmployeeRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -109,9 +109,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "IDepartmentClient.cs",
-              "DocumentMoniker": "C:\\Users\\Guilherme Aguiar\\Desktop\\ProjetoCoreEmployeeC#\\Project-Employee-NetCore-SQLite\\EmployeeApi.Application\\Interfaces\\IDepartmentClient.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme Aguiar\\Desktop\\Deixar responsivel\\Project-Human-Resources\\Project-Employee-NetCore-SQLite\\EmployeeApi.Application\\Interfaces\\IDepartmentClient.cs",
               "RelativeDocumentMoniker": "EmployeeApi.Application\\Interfaces\\IDepartmentClient.cs",
-              "ToolTip": "C:\\Users\\Guilherme Aguiar\\Desktop\\ProjetoCoreEmployeeC#\\Project-Employee-NetCore-SQLite\\EmployeeApi.Application\\Interfaces\\IDepartmentClient.cs",
+              "ToolTip": "C:\\Users\\Guilherme Aguiar\\Desktop\\Deixar responsivel\\Project-Human-Resources\\Project-Employee-NetCore-SQLite\\EmployeeApi.Application\\Interfaces\\IDepartmentClient.cs",
               "RelativeToolTip": "EmployeeApi.Application\\Interfaces\\IDepartmentClient.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -121,9 +121,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "DepartmentClient.cs",
-              "DocumentMoniker": "C:\\Users\\Guilherme Aguiar\\Desktop\\ProjetoCoreEmployeeC#\\Project-Employee-NetCore-SQLite\\EmployeeApi.Infrastructure\\Http\\DepartmentClient.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme Aguiar\\Desktop\\Deixar responsivel\\Project-Human-Resources\\Project-Employee-NetCore-SQLite\\EmployeeApi.Infrastructure\\Http\\DepartmentClient.cs",
               "RelativeDocumentMoniker": "EmployeeApi.Infrastructure\\Http\\DepartmentClient.cs",
-              "ToolTip": "C:\\Users\\Guilherme Aguiar\\Desktop\\ProjetoCoreEmployeeC#\\Project-Employee-NetCore-SQLite\\EmployeeApi.Infrastructure\\Http\\DepartmentClient.cs",
+              "ToolTip": "C:\\Users\\Guilherme Aguiar\\Desktop\\Deixar responsivel\\Project-Human-Resources\\Project-Employee-NetCore-SQLite\\EmployeeApi.Infrastructure\\Http\\DepartmentClient.cs",
               "RelativeToolTip": "EmployeeApi.Infrastructure\\Http\\DepartmentClient.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -133,9 +133,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "EmployeeService.cs",
-              "DocumentMoniker": "C:\\Users\\Guilherme Aguiar\\Desktop\\ProjetoCoreEmployeeC#\\Project-Employee-NetCore-SQLite\\EmployeeApi.Application\\Services\\EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme Aguiar\\Desktop\\Deixar responsivel\\Project-Human-Resources\\Project-Employee-NetCore-SQLite\\EmployeeApi.Application\\Services\\EmployeeService.cs",
               "RelativeDocumentMoniker": "EmployeeApi.Application\\Services\\EmployeeService.cs",
-              "ToolTip": "C:\\Users\\Guilherme Aguiar\\Desktop\\ProjetoCoreEmployeeC#\\Project-Employee-NetCore-SQLite\\EmployeeApi.Application\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\Guilherme Aguiar\\Desktop\\Deixar responsivel\\Project-Human-Resources\\Project-Employee-NetCore-SQLite\\EmployeeApi.Application\\Services\\EmployeeService.cs",
               "RelativeToolTip": "EmployeeApi.Application\\Services\\EmployeeService.cs",
               "ViewState": "AgIAAIkAAAAAAAAAAAAgwKUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
