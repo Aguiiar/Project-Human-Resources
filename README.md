@@ -496,7 +496,7 @@ Este projeto representa uma aplicação completa, cobrindo backend e frontend, s
 
 ---
 
-![6](/images/6.png)
+![6](./images/6.png)
 
 ---
 
