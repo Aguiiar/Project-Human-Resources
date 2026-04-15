@@ -1,4 +1,4 @@
-# 🚀 TechHigh Technologies - Employee & Department Management System
+# 🚀 TechHigh Technologies - Employee & Department
 
 ---
 
