@@ -4,7 +4,7 @@
 
 ## 📌 Sobre o Projeto
 
-O TechHigh Technologies é um sistema Fullstack desenvolvida com foco em boas práticas de arquitetura, separação de responsabilidades e simulação de um ambiente real de mercado utilizando microserviços.
+O TechHigh Technologies é um sistema Fullstack desenvolvido com foco em boas práticas de arquitetura, separação de responsabilidades e simulação de um ambiente real de mercado utilizando microserviços.
 
 O sistema permite o gerenciamento completo de:
 
